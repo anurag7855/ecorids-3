@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="40" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- ECO text -->
+  <path d="M0 8h36v8H8v4h24v8H8v4h28v8H0V8z" fill="#2E7D32"/>
+  
+  <!-- Scooter icon -->
+  <g transform="translate(82, 8) scale(0.8)">
+    <path d="M12 2l10 20H2L12 2z" fill="none" stroke="#000" stroke-width="2"/>
+    <circle cx="12" cy="18" r="6" fill="#2E7D32"/>
+    <path d="M8 16h8" stroke="#fff" stroke-width="2"/>
+  </g>
+  
+  <!-- RDS text -->
+  <path d="M120 8h36v8h-28v24h-8V8z" fill="#000"/>
+  <path d="M164 8h36v40h-8V16h-28V8z" fill="#000"/>
+</svg>
